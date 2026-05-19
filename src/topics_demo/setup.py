@@ -27,6 +27,7 @@ setup(
             'talker = topics_demo.talker:main',
             'listener = topics_demo.listener:main',
             'driver = topics_demo.driver:main',
+            'relay = topics_demo.relay:main',
         ],
     },
 )
